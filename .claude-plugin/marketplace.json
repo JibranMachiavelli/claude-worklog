@@ -1,0 +1,11 @@
+{
+  "name": "claude-worklog",
+  "owner": { "name": "Jibran Machiavelli" },
+  "plugins": [
+    {
+      "name": "worklog",
+      "source": "./",
+      "description": "Daily timesheet entry from your GitHub, Jira and Confluence activity, with a suggested number of hours to log."
+    }
+  ]
+}

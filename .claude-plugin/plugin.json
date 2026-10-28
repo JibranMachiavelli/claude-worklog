@@ -1,0 +1,7 @@
+{
+  "name": "worklog",
+  "description": "Daily timesheet entry from your GitHub, Jira and Confluence activity, with a suggested number of hours to log.",
+  "version": "1.0.0",
+  "author": { "name": "Jibran Machiavelli" },
+  "license": "MIT"
+}
